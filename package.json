@@ -1,0 +1,12 @@
+{
+  "name": "medusa-example-store",
+  "version": "0.1.0",
+  "description": "Medusa example store with admin and storefront ui",
+  "main": "index.js",
+  "author": "Salih Candir <salih.candir@styleflasher.at>",
+  "license": "MIT",
+  "private": "true",
+  "workspaces": [
+    "packages/*"
+  ]
+}
